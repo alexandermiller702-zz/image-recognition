@@ -5,8 +5,7 @@ custom_cnn.py: for model class of CNN
 data_base.py:  common functions for handling images
 imagenet_model.py: code for testing keras.applications
 
-test.py
-train.py
+main.py
 
 - data
 -- test: contains handful of test images
